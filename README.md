@@ -22,7 +22,7 @@ This is a simple memory game where players need to match idential cards.
 
 This game is played in the console. It was written entirely in Java and utilises an OOP design pattern.
 
-Files: `Game.java`, `Tests.jave`
+Files: `Game.java`, `Tests.java`
 
 The files show the main game and the tests written for it.
 
